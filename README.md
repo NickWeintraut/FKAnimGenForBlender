@@ -18,7 +18,7 @@ frame.rot_z(-1 * math.pi / 2)
 frame.rot_y(-1 * math.pi / 2)``` written, you can modify the instructions to any sequence of rot_x,rot_y,rot_z, and trans. The example script has documentation to show exactly what it is doing with the API so that you can tweak every step. 
 4. When you've modified your script, press the 'Run Script' button at the bottom of the text editor. This script does not run the animation itself, but generates an animation inside of the blender scene that you can run with [alt a] or the timeline window.
 
-#Contributing to this Repository
+# Contributing to this Repository
 If you make changes to this repository that could be beneficial to other users, please feel free to make a pull request after doing the following:
 1. Ensuring that all API methods and script changes are sufficiently documented (similar to the current level of documentation)
 2. Test a few different configurations of animations (both moving and fixed axis) to make sure they still work. 
