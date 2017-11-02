@@ -6,7 +6,7 @@ Using the open source software Blender, the included scene generates an animatio
 A python API is also included in the scene itself (and in this repo for easy reading) to allow users to generate animations of any MOVING-AXIS or FIXED-AXIS transformation
 using simple rot and trans commands.
 
-![Example Animation GIF](https://github.com/NickWeintraut/FKAnimGenForBlender/exampleAnimation.gif)
+![Example Animation GIF](https://github.com/NickWeintraut/FKAnimGenForBlender/blob/master/exampleAnimation.gif)
 
 # Getting Started
 1. Download Blender at blender.org
